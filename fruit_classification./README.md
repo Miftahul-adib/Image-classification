@@ -15,12 +15,15 @@ This project implements **Fruit Image Classification** using the **VGG16 pre-tra
 
 ## 📂 Dataset
 The dataset contains fruit images divided into **training** and **validation** sets.  
-It is preprocessed and augmented using `ImageDataGenerator`.
+The dataset used in this project is [Fruits-100 Dataset](https://www.kaggle.com/datasets/marquis03/fruits-100) from Kaggle.
+
 
 ---
 
 ## 📦 Requirements
 Install the required dependencies:
-
-```bash
-pip install tensorflow keras matplotlib numpy pandas
+tensorflow 
+keras 
+matplotlib
+numpy
+pandas
