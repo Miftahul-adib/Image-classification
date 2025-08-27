@@ -1,5 +1,4 @@
 # Image-classification
-## Transfer learning with VGG16 and fine-tuning for image classification, optionally using data augmentation.
 
 ## 1st project:
 
